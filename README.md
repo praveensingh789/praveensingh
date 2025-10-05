@@ -1,4 +1,4 @@
-# praveensingh# 👋 Hi, I'm Praveen Singh
+ 👋 Hi, I'm Praveen Singh
 
 💻 I'm a Network Engineer | CCNA | CCNP | CCIE Security Enthusiast  
 🌱 Firewalls (ASA, FortiGate, Palo Alto)  
